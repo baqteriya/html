@@ -1,0 +1,28 @@
+.card{
+    background-image:url("https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcS_lkO6uM1yZEaAGMsVm7FYc-fMh2Ll6V8wRQ&s");
+    height: 200px;
+    width: 200px;
+    border: 20px solid black;
+    text-align: center;
+    background-size:cover;
+    background-position: center;
+    margin: 90px;
+    
+}
+
+body{
+    background-color: rgb(61, 142, 142);
+    h1{
+        color: rgb(165, 42, 89);
+    }
+    text-align: center;
+
+}
+
+.card h2 {
+    color: rgb(40, 31, 126); 
+    
+}
+.card:hover h2 {
+    color:rgb(228, 19, 88); 
+}
